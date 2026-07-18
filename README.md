@@ -26,7 +26,7 @@ L'intera pipeline di calcolo e visualizzazione è stata sviluppata in ambiente P
 ## Struttura del Repository
 * 📁 **`Notebooks/`**: Contiene il Jupyter Notebook (`.ipynb`) con l'intero script Python (Data cleaning, EDA e Machine Learning).
 * 📁 **`Images/`**: Contiene i grafici statistici definitivi esportati in alta risoluzione.
-* 📄 **`Presentazione_Spotify_Hit.pdf` / `.pptx`**: La presentazione finale del progetto.
+* 📄 **`Presentation.pdf` / `.pptx`**: La presentazione finale del progetto.
 
 ## Come riprodurre l'analisi
 1. Clonare il repository: `git clone https://github.com/tahaanass/Corso-Visualizzazione-Scientifica.git`
